@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76152" started-at="2020-06-22T07:43:08Z" finished-at="2020-06-22T07:44:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76152" started-at="2020-06-22T07:43:08Z" finished-at="2020-06-22T07:44:24Z">
+      <class name="com.mst.sutomation.allied.regressiontestcases.DelegateApplication">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.mst.sutomation.allied.regressiontestcases.DelegateApplication@4e1d422d]" name="setUp" is-config="true" duration-ms="34089" started-at="2020-06-22T07:43:08Z" finished-at="2020-06-22T07:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Sumarry(java.lang.String)[pri:0, instance:com.mst.sutomation.allied.regressiontestcases.DelegateApplication@4e1d422d]" name="Sumarry" duration-ms="42016" started-at="2020-06-22T07:43:42Z" finished-at="2020-06-22T07:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sumarry -->
+      </class> <!-- com.mst.sutomation.allied.regressiontestcases.DelegateApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
